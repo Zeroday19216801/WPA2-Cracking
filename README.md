@@ -1,4 +1,4 @@
-# WPA2 Cracking Guide
+# WPA2 Cracking
 
 This repository contains a detailed guide to cracking WPA2 Wi-Fi networks for educational and ethical hacking purposes only. Always ensure you have permission to test any network you attempt to crack.
 
